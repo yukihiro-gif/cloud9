@@ -1,0 +1,46 @@
+body{
+ background-color: #fff;
+ color: #333;
+ font-family: verdana, arial, helvetica, sans-serif;
+ font-size: 13px;
+ margin: 33px;
+ text-align: left;
+}
+
+p{
+ font-family: verdana, arial, helvetica, sans-serif;
+ font-size: 13px;
+ line-height: 18px;
+ margin: 33px;
+}
+
+thead{
+ display: table-header-group;
+ vertical-align: middle;
+ border-color: inherit;
+ text-align: center;
+}
+
+tr{
+ display: table-row;
+ border-color: inherit;
+ color: #333;
+ line-height: 18px;
+}
+
+tbody{
+display: table-row-group;
+vertical-align: middle;
+border-color: inherit
+}
+
+table{
+display: table;
+border-collapse: separate;
+border-spacing: 2px;
+border-color: grey;
+}
+
+#notice{
+ color: #3cb371;
+}
